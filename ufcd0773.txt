@@ -1,0 +1,9 @@
+Tópicos Trabalho
+
+sistemas operativos Servidor
+sistema ficheiros - servidor (raid,etc)
+hardware servidor   
+unidade de backups
+protocolos e serviços de rede (modelo osi, etc)
+função do servidor na rede
+contas de cliente no servidor
